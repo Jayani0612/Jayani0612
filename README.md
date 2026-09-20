@@ -12,12 +12,12 @@
         <li>🔭 I’m currently learning <b>Python & Web Development</b></li>
         <li>🌱 I’m an Undergraduate at <b>SLIATE</b></li>
         <li>💬 Ask me about <b>Databases & MySQL</b></li>
-        <li>📫 How to reach me: <b>prathanjayani@gmail.com</b> (ඔයාගේ ඊමේල් එක මෙතන දාන්න)</li>
+        <li>📫 How to reach me: <b>prathanjayani@gmail.com</b>  </li>
         <li>⚡ Fun fact: <b>I love building databases!</b></li>
       </ul>
     </td>
     <td width="50%">
-      <!-- මෙතනට ඔයා කැමති පින්තූරයක් දාන්න පුළුවන්. දැනට මම උදාහරණයක් විදිහට පින්තූරයක් දාලා තියෙනවා -->
+      
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="Coding" width="100%" />
     </td>
   </tr>
