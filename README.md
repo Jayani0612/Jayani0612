@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,100:7928CA&height=200&section=header&text=JAYANI%20PRARTHANA&desc=IT%20Undergraduate%20%7C%20Aspiring%20Web%20Developer%20%26%20Database%20Enthusiast&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,100:7928CA&height=200&section=header&text=JAYANI%20PRARTHANA&desc=IT%20Undergraduate%20%7C%20Aspiring%20Web%20Developer%20and%20Database%20Enthusiast&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
   
   <h2>Hello World! 👋 I'm Jayani</h2>
-  <h3>Welcome to my GitHub Profile</h3>
   
   <img src="https://komarev.com/ghpvc/?username=Jayani0612&label=Profile%20views&color=ff69b4&style=flat" alt="Jayani0612" />
 </div>
@@ -13,8 +12,8 @@
 
 <p>
   🎓 I’m an Undergraduate at <b>SLIATE</b><br>
-  💻 I’m currently learning <b>Python & Full-Stack Web Development</b><br>
-  🗄️ Passionate about <b>Databases & MySQL</b><br>
+  💻 I’m currently learning <b>Python and Full-Stack Web Development</b><br>
+  🗄️ Passionate about <b>Databases and MySQL</b><br>
   🚀 I love building practical projects and exploring new tech!<br>
   📫 How to reach me: <b>prathanjayani@gmail.com</b>
 </p>
