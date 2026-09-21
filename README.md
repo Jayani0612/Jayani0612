@@ -33,9 +33,9 @@
 
 <h3>📊 My GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayani0612&show_icons=true&theme=tokyonight" alt="Jayani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayani0612&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Jayani's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayani0612&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayani0612&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <br>
