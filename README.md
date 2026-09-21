@@ -1,33 +1,49 @@
-<h1 align="center">Hi 👋, I'm Jayani Prarthana</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,100:7928CA&height=180&section=header&text=JAYANI%20PRARTHANA&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  
+  <h2>Hello World! 👋 I'm Jayani</h2>
+  <h3>IT Undergraduate | Web Development & DBMS Enthusiast</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=Jayani0612&label=Profile%20views&color=ff69b4&style=flat" alt="Jayani0612" />
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Jayani0612&label=Profile%20views&color=0e75b6&style=flat" alt="Jayani0612" /> 
+<br>
+
+<h3>💜 About Me</h3>
+
+<p>
+  🎓 I’m an Undergraduate at <b>SLIATE</b><br>
+  💻 I’m currently learning <b>Python & Full-Stack Web Development</b><br>
+  🗄️ Passionate about <b>Databases & MySQL</b><br>
+  🚀 I love building practical projects and exploring new tech!<br>
+  📫 How to reach me: <b>prathanjayani@gmail.com</b>
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🔭 I’m currently learning <b>Python & Web Development</b></li>
-        <li>🌱 I’m an Undergraduate at <b>SLIATE</b></li>
-        <li>💬 Ask me about <b>Databases & MySQL</b></li>
-        <li>📫 How to reach me: <b>prathanjayani@gmail.com</b>  </li>
-        <li>⚡ Fun fact: <b>I love building databases!</b></li>
-      </ul>
-    </td>
-    <td width="50%">
-      
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="Coding" width="100%" />
-    </td>
-  </tr>
-</table>
+<br>
 
-<hr>
+<h3>🛠️ Languages and Tools</h3>
+<p> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</p>
 
-<h3 align="center">📊 My Statistics:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayani0612&show_icons=true&theme=radical" alt="Jayani's GitHub Stats" />
+<br>
+
+<h3>📊 My GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayani0612&show_icons=true&theme=tokyonight" alt="Jayani's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayani0612&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayani0612&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<br>
+
+<h3>🔗 Connect with me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/jayani-prarthana-879615388" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
